@@ -1,4 +1,4 @@
-const URL="https://validar-cpf-itallo-backend.herokuapp.com/validacpf?cpf="
+const URL="https://validar-cpf-itallo-backend.herokuapp.com/validacpf"
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
